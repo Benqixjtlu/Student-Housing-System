@@ -1,2 +1,2 @@
 # Student-Housing-System
-CS360
+### Final Project for CS360 Uidaho
